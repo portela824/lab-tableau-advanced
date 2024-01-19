@@ -28,5 +28,5 @@ Continue your exploration of Tableau's advanced visualization capabilities using
 
 
 
-###################################################################################################################################################################
+
 **Link for the finish lab :**  https://public.tableau.com/shared/2WWFXR2CN?:display_count=n&:origin=viz_share_link
